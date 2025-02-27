@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JacksonWeudes
-- 👀 I’m interested in html, CSS, jacvaScript and python
+- 👀 I’m interested in html, CSS, javaScript and python
 - 🌱 I’m currently learning python, HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
